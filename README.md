@@ -11,14 +11,18 @@ This KSP mod uses the in-game Scatter objects to represent the SurfaceSamples th
 - The DLC Breaking Ground allows Kerbals to collect certain ROCScience items. These are also able to be stored in the HeavyScience Container and have mass applied.
 - DeltaV considerations will need to be made when collecting a number of samples in one trip.
 
-## Known Issues
-Not compatible with Kopernicus (any version)
-
 
 **Licence:** GNU General Public License v3.0
+
+## Known Issues
+Not compatible with Kopernicus (any version)
 
 ## Installation Instructions
 Extract the enclosed files to your GameData folder.
 
 ## Change Log
 HeavyScience BETA 0.1.0.0 - Initial Release for testing
+
+
+
+

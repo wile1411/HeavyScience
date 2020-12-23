@@ -1,0 +1,30 @@
+{
+    	"NAME":"HeavyScience",
+	"URL":"https://raw.githubusercontent.com/wile1411/HeavyScience/master/GameData/HeavyScience/HeavyScience.version",
+	"DOWNLOAD":"https://github.com/wile1411/HeavyScience/releases",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":11,
+		"PATCH":0
+	},
+    	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":11,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":11,
+		"PATCH":99
+	}
+}
